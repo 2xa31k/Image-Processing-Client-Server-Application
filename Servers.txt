@@ -1,0 +1,8 @@
+localhost;9900;RMI
+localhost;9910;RMI
+localhost;9920;RMI
+localhost;9930;RMI
+localhost;9700;Socket
+localhost;9710;Socket
+localhost;9720;Socket
+localhost;9730;Socket
